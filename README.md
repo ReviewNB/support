@@ -1,7 +1,7 @@
 It's a place for issues and feature requests related to [ReviewNb](https://reviewnb.com) usage.
 
 ### What is ReviewNb
-It's a GitHub App that helps in version controlling Jupyter Notebooks. You can add it to on any of your GitHub repositories and be able to see visual diff (see below) instead of the diffiult to read [JSON diff](https://github.com/amit1rrr/PythonDataScienceHandbook/pull/1/files#diff-30a2a6562c626b99b9c69ce3e26ddc03) that's common with Jupyter Notebook.
+It's a GitHub App that helps in version controlling Jupyter Notebooks. You can add it to on any of your GitHub repositories and you'll be able to see visual diff (see below) instead of the diffiult to read [JSON diff](https://github.com/amit1rrr/PythonDataScienceHandbook/pull/1/files#diff-30a2a6562c626b99b9c69ce3e26ddc03) that's common with Jupyter Notebook.
 
 Know more about it one our [website](https://www.reviewnb.com/) or read the [introductory blog](https://towardsdatascience.com/introducing-reviewnb-visual-diff-for-jupyter-notebooks-6797e6dfa20c).
 
