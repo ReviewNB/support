@@ -17,7 +17,7 @@ ReviewNB provides a complete code review workflow for Jupyter Notebooks on GitHu
 
 (Coming Soon) A CI pipeline for Jupyter Notebooks to continuously test each change and its effect on your experiment/analysis.
 
-![Visual Diff](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5ba93ded243329a486dab26e_sl-code%2Bimage.png)
+![Visual Diff](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7e8f6210414d40444ff970_Screenshot%202019-03-05%20at%208.30.46%20PM.png)
 
 
 
