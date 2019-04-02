@@ -5,7 +5,7 @@ It's a place for issues and feature requests for ReviewNB.
 
 
 ## What is ReviewNB?
-Having trouble using Jupyter Notebook in a team workflow? Version control, code reviews and collaboration is difficult with Jupyter Notebooks.
+Having trouble using Jupyter Notebook in a team workflow? Version control, code reviews and collaboration are difficult with Jupyter Notebooks.
 
 ReviewNB makes Notebooks a first class entity in Data Science & ML teams by providing:
 
