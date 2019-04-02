@@ -5,9 +5,17 @@ It's a place for issues and feature requests for ReviewNB.
 
 
 ## What is ReviewNB?
-It's a GitHub App that helps in version controlling Jupyter Notebooks. You can add it to on any of your GitHub repositories and you'll be able to see visual diff (see below) instead of the diffiult to read [JSON diff](https://github.com/amit1rrr/PythonDataScienceHandbook/pull/1/files#diff-30a2a6562c626b99b9c69ce3e26ddc03) that's common with Jupyter Notebook.
+Having trouble using Jupyter Notebook in a team workflow? Version control, code reviews and collaboration is difficult with Jupyter Notebooks.
 
-Know more about it on our [website](https://www.reviewnb.com/) or read the [introductory blog](https://towardsdatascience.com/introducing-reviewnb-visual-diff-for-jupyter-notebooks-6797e6dfa20c).
+ReviewNB makes Notebooks a first class entity in Data Science & ML teams by providing:
+
+* Visual diff for every GitHub commit or Pull Request containing Notebooks
+
+* Commenting on the Notebook diff to review Jupyter Notebook PRs
+
+ReviewNB provides a complete code review workflow for Jupyter Notebooks on GitHub. You can ask clarifying questions, suggest improvements & open/close issues before approving the PR.
+
+(Coming Soon) A CI pipeline for Jupyter Notebooks to continuously test each change and its effect on your experiment/analysis.
 
 ![Visual Diff](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5ba93ded243329a486dab26e_sl-code%2Bimage.png)
 
