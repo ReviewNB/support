@@ -5,17 +5,20 @@ It's a place for issues and feature requests for ReviewNB.
 
 
 ## What is ReviewNB?
-Having trouble using Jupyter Notebook in a team workflow? Version control, code reviews and collaboration are difficult with Jupyter Notebooks.
 
-ReviewNB makes Notebooks a first class entity in Data Science & ML teams by providing:
+Having trouble using Jupyter Notebooks in your team? Version control, code reviews and collaboration is difficult with Jupyter Notebooks. 
 
-* Visual diff for every GitHub commit or Pull Request containing Notebooks
+ReviewNB provides a complete code review workflow for Jupyter Notebooks on GitHub.
 
-* Commenting on the Notebook diff to review Jupyter Notebook PRs
+- [Visual diff ](https://tinyurl.com/yxvokoew) for every GitHub commit or Pull Request containing Notebooks
 
-ReviewNB provides a complete code review workflow for Jupyter Notebooks on GitHub. You can ask clarifying questions, suggest improvements & open/close issues before approving the PR.
+- [Commenting](https://tinyurl.com/y648jktr) on the Notebook diff to review Jupyter Notebook PRs. 
 
-(Coming Soon) A CI pipeline for Jupyter Notebooks to continuously test each change and its effect on your experiment/analysis.
+- You can ask clarifying questions, suggest improvements & open/close issues before approving the PR. 
+
+- (Coming Soon) A CI pipeline for Jupyter Notebooks to continuously test each change. See [treon](https://github.com/ReviewNB/treon), our open source library for notebook testing.
+
+Our aim is to make Notebooks a first class entity in Data Science & ML teams.
 
 ![Visual Diff](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7e8f6210414d40444ff970_Screenshot%202019-03-05%20at%208.30.46%20PM.png)
 
