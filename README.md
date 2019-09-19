@@ -1,6 +1,6 @@
 ## What's the purpose of this Repo?
 It's a place for issues and feature requests for ReviewNB.
-* If there is any problem/question in using ReviewNB, you can open an issue here or write to us at support@reviewnb.com
+* **If there is any problem/question in using ReviewNB, you can open an issue here or write to us at support@reviewnb.com**
 * We're building in the open. That means you can view [upcoming features](https://github.com/ReviewNB/support/issues?q=is%3Aopen+is%3Aissue+label%3A%22Feature+Request%22+sort%3Acreated-desc), vote on them,  and even request a new one.
 
 
